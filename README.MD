@@ -1,3 +1,4 @@
+<!-- cabeceras -->
 # CABECERA UNO H1 (#)
 ## CABECERA DOS H2 (##)
 ### CABECERA TRES H3 (###)
@@ -5,4 +6,8 @@
 ##### CABECERA CINCO H5 (#####)
 ###### CABECERA SEIS H6 (######)
 
-SOY UN README ddd
+<!-- underlines -->
+underline 1 ( --- )
+------------------
+underline 2 ( === )
+=================
